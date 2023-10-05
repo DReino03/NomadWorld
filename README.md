@@ -1,1 +1,2 @@
 # NomadWorld
+Nomad World es un proyecto diseñado para entusiastas de viajar que desean explorar rutas de viaje compartidas por otros usuarios. La plataforma trabajará a modo de red social, esta permitirá a los usuario poder publicar el itinerario de sus viajes para así poder compartirlo con el resto de usuarios para recibir un feedback por su parte o inspirar a los usuario para sus próximos viajes.
